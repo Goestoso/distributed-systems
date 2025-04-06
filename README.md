@@ -1,4 +1,4 @@
-### Estudos sobre sistemas distribuídos
+# 📖⚙💻 Estudos sobre sistemas distribuídos
 
 ## 🧪 Configurando o ambiente de estudos
 
