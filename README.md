@@ -1,4 +1,8 @@
-### Estudos sobre sistemas distribuídos
+# 📖⚙💻 Estudos sobre sistemas distribuídos
+
+Espaço dedicado para estudar sobre os sistemas distribuídos.
+
+**Definição**: um modelo computacional no qual vários computadores ou dispositivos (também chamados de nós) trabalham juntos para atingir um objetivo comum.
 
 ## 🧪 Configurando o ambiente de estudos
 
