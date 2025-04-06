@@ -1,4 +1,4 @@
-pyenv.config
+pyvenv.cfg
 Lib/
 Include/
 Scripts/
